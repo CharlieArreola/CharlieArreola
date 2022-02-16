@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Carlos Arreola and this is the starT for my git repository.<br><br>
+- 👋 Hi, I’m @Carlos Arreola and this is the start for my git repository.<br><br>
 
 - 🌱 I’m currently learning ...<br>
 Transformers for NLP<br>
