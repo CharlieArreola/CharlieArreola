@@ -13,11 +13,11 @@ carlos.arreola.dev@protonmail.com<br>
 
 - 👀 Profile Intro or something ...<br>
 <p>
-- Bachelor's specialization in Businesses Intelligence.
-- Data Scientist specialized in Natural Language Processing models.
-- Open-Source Framework
-- Project Management skills
-- Communication
+- Bachelor's specialization in Businesses Intelligence.<br>
+- Data Scientist specialized in Natural Language Processing models.<br>
+- Open-Source Framework<br>
+- Project Management skills<br>
+- Communication<br>
 
 Data Science Professional experience though every iteration of the cyclic process:
 (Business Understanding, Analytic Approach, Data Requirements, Data Collection, Data Understanding, Data Wrangling, Modeling/Analysis Process, Evaluation, Deployment and Feedback). As a Robotic Process Automation Developer being able to automate the end solutions with any type of robotic process automation(rpa’s) or interactive dashboards for analysis or monitoring of data.
