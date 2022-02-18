@@ -1,17 +1,22 @@
-- 👋 Hi, I’m @Carlos Arreola and this is the start for my git repository.<br><br>
+<h1>Hola a Todos :D</h1>
+<h4>En este repositorio hablamos en spanglish :)</h4>
+<h2>Bienvenido!</h2>
+- 👋 Hola! Soy @Carlos Arreola.<br><br>
+Lic. en Gestión de Negocios y Tecnologías de la Información. Desde el 2018 trabajo en IBM principalmente en Machine Learning, Natural Language [Processing, Classifcation], tecnologías cognitivas en un equipo de Automation. Ademas me considero entusiasta en temas de Artificial Intelligence, web3,videojuegos y crypto. Si puedo apoyarte en algo no dudes en dejarme algun mensaje o mi contacto vía email. 
 
-- 🌱 I’m currently learning ...<br>
-Transformers for NLP<br>
+- 🌱 Aprendiendo ...<br>
+Specializing in Transformers for NLP for enterprise<br>
+Learning dockers too..<br>
 
-- 💞️ I’m looking to collaborate on ...<br>
+- 💞️ Colaboraciones en: ...<br>
 DataS Science<br>
-Crypto/Web3<br>
+Web3<br>
 
-- 📫 How to reach me ...<br>
+- 📫 Puedes contactarme ...<br>
 You can send me email:<br>
 carlos.arreola.dev@protonmail.com<br>
 
-- 👀 Profile Intro or something ...<br>
+- 👀 Perfil Intro o algo ...<br>
 <p>
 - Bachelor's specialization in Businesses Intelligence.<br>
 - Data Scientist specialized in Natural Language Processing models.<br>
@@ -23,8 +28,12 @@ Data Science Professional experience though every iteration of the cyclic proces
 (Business Understanding, Analytic Approach, Data Requirements, Data Collection, Data Understanding, Data Wrangling, Modeling/Analysis Process, Evaluation, Deployment and Feedback). As a Robotic Process Automation Developer being able to automate the end solutions with any type of robotic process automation(rpa’s) or interactive dashboards for analysis or monitoring of data.
 </p>
 
+
+![bismuth](https://user-images.githubusercontent.com/44590893/154608094-5f4713a3-b776-46e0-893e-0e6521dba414.png)
+
+
 <hr>
-<h2> Some credentials</h2>
+<h2> Algunas credenciales</h2>
 <br>
 
 [![blue-core-mentor](https://user-images.githubusercontent.com/44590893/154390329-9290a131-be50-4398-adfb-24190a771c23.png)](https://www.credly.com/badges/b66f35de-8248-4ce3-8703-3a9bd18f32ce/public_url)
