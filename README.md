@@ -1,58 +1,68 @@
-# Hello Everyone  | Hola a todos :D
+# Hi, I'm Carlos Arreola 👋
 
-## Welcome to my Repository!
+**AI Engineer & Tech Lead — AI Lab @ Minsait (Indra Group)**  
+I build production-grade **LLM apps** (RAG, multi-agent systems, agentic workflows) across **AWS, Azure, and GCP**. Full-stack by habit (FastAPI + Vue/TS), product-minded by default, and always shipping.
 
-- 👋 Hi there! I'm Carlos Arreola.
-- 🎓 Bachelor's degree in Business Management and Information Technology. 
-- 💼 Currently, I work at Innovation Boosters as a Senior Data Scientist, leading AI and machine learning projects. Previously, I was with IBM, focusing on automation technologies and developing and deploying cognitive tools to enhance business processes.
-- 🌐 Passionate about AI, web3, video games, and crypto. If you need any assistance, feel free to reach out via email.
+## What I focus on
+- 🧠 LLMs: **RAG**, **multi-agent** orchestration, reasoning agents, safety & guardrails  
+- ☁️ Cloud & MLOps: **Azure OpenAI**, **AWS Bedrock**, **Vertex AI**, containers & CI/CD  
+- 🧰 Full-stack: **FastAPI**, **Vue 3 + TypeScript**, RESTful APIs, SQL (Postgres/MySQL)  
+- 📦 Data & multimodal: Whisper/FFmpeg, OCR, vector DBs (**Qdrant**, **Pinecone**)
 
-## What I'm Learning...
-- Specializing in Transformers for NLP for enterprise applications.
-- Learning Docker and containerization technologies.
+## Highlights
+- Led AI solutions from proposal → delivery for finance, retail, and marketing:  
+  - 📑 **AI Flows** automations emowered with multimodal ai-capabilities or traditional ML  
+  - ✅ **QA agent** to generate test cases  
+  - 🎨 **GenAI platform** for text/image/video/voice content creation  
+- Previously **Sr. Data Scientist** at a Netherlands-based consultancy; before that at **IBM** (automation, NLC/NLU, digital workers, dashboards)
 
-## Collaborations in...
-- Data Science
-- AI projects
+## Toolbelt
+**Python**, **TypeScript/JavaScript**, **FastAPI**, **Vue 3**, **Docker**, **LangChain**, **AdalFlow**, **PyTorch/TensorFlow**, **Selenium/BeautifulSoup**, **Postman**, **Git/VS Code**  
+**Cloud**: Azure (OpenAI, Data Lake), AWS (Bedrock, Fargate, Aurora, S3), GCP (Vertex AI, Artifact Registry)  
+**Vectors**: Qdrant, Pinecone
 
-## Contact Me...
-- 📧 You can send me an email at: carlos.arreola.dev@protonmail.com
+## Find me
+- 🌐 GitHub: [@CharlieArreola](https://github.com/CharlieArreola)
+- 💼 LinkedIn: [/in/carlos-arreola-trujillo](https://www.linkedin.com/in/carlos-arreola-trujillo/)
+- 📫 Email: carlos.arreola.dev@protonmail.com
 
-## Profile Overview...
-- Specialized in Business Intelligence and Data Science.
-- Expert in Natural Language Processing (NLP) models.
-- Experienced in developing open-source frameworks.
-- Strong project management and communication skills.
+---
 
-### Professional Experience:
-- **Senior Data Scientist at Innovation Boosters (March 2022 - May 2024)**
-Leading data science initiatives for an innovation consultancy agency, developing a methodology for social voice listening based on NLP models and multimedia analysis. Engaging with stakeholders and transforming market analysis through big data insights. Integrating with cloud technologies like IBM Cloud and Azure.
+### Español 🇲🇽
+**Líder Técnico de IA — AI Lab en Minsait (Indra Group)**  
+Desarrollo aplicaciones de **LLMs** listas para producción (**RAG**, **sistemas multi-agente** y flujos agénticos) en **AWS, Azure y GCP**. Full-stack (FastAPI + Vue/TS) con enfoque a producto y entrega continua.
 
-- **Robotic Process Automation Developer at IBM (July 2019 – March 2022)**
-Delivered and customized Watson NLC-powered chatbot assistants and other cognitive tools. Identified and managed automation opportunities, improving business processes. Transformed ticket management analysis through visualization dashboards and NLP analysis to provide clarity for directors.
+**En qué trabajo**
+- 🧠 LLMs: **RAG**, **multi-agente**, agentes de razonamiento, seguridad/guardrails  
+- ☁️ Cloud & MLOps: **Azure OpenAI**, **AWS Bedrock**, **Vertex AI**, contenedores & CI/CD  
+- 🧰 Full-stack: **FastAPI**, **Vue 3 + TS**, APIs REST, SQL (Postgres/MySQL)  
+- 🎙️ Multimodal: Whisper/FFmpeg, OCR, vectores (**Qdrant**, **Pinecone**)
 
-### Skills:
-- **Programming Languages:** Python, C#, MDX, SQL, R, JavaScript
-- **Data Science Tools:** Selenium, Beautiful Soup, Power Automate, Digital Workers
-- **NLP Expertise:** NLC, NLU, Hugging Face pipelines, PyTorch, BERT
-- **LLM Fine-Tuning:** GPT, LLaMA
-- **Visualization:** Dashboards, Data Storytelling
-- **Frameworks:** IBM Data Science Framework, Azure ML, OpenAI API
-- **Software:** IBM Cloud Pak for Data, Azure ML, Visual Studio Code, Jira, Trello
-- **Operating Systems:** macOS, Windows, basic Linux
-- **Non-Technical Skills:** Mentorship, Innovation Leadership, Design Thinking, Agile Methodologies, AI Ethics
+**Proyectos destacados**
+- 📑 Automatizaciones mediantes flujos agenticos con modelos multimodales, o ML 
+- ✅ Agente de QA para generación de casos de prueba  
+- 🎨 Plataforma GenAI para marketing (texto/imagen/video/voz)
 
-### Certifications:
+**Stack**
+Python • TypeScript/JS • FastAPI • Vue 3 • Docker • LangChain • AdalFlow • PyTorch/TensorFlow • Qdrant/Pinecone • Azure/AWS/GCP
+
+**Contacto**
+GitHub **@CharlieArreola** • LinkedIn **/in/carlos-arreola-trujillo** • Email **carlos.arreola.dev@protonmail.com**
+
+---
+
+> Off-hours: grilling/BBQ, baking, and building next-gen PCs 🖥️🔥
+
+#### Certifications:
 - Data Science Professional Certificate (IBM)
 - Machine Learning with Python (IBM)
 - Data Analysis with Python (IBM)
 - IBM Agile Explorer
 - Cognitive Practitioner (IBM)
 
-### Interests:
-- Grilling and Baking: Enjoy creating and experimenting with different flavors.
-- Technology Enthusiast: Always exploring the latest tech developments and innovations.
-- AI Enthusiast: Passionate about experimenting with new AI innovations in personal and professional projects.
+---
+
+> Off-hours: grilling/BBQ, baking, and building next-gen PCs 🖥️🔥
 
 
 ![bismuth](https://user-images.githubusercontent.com/44590893/154608094-5f4713a3-b776-46e0-893e-0e6521dba414.png)
