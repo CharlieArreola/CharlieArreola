@@ -51,8 +51,6 @@ GitHub **@CharlieArreola** • LinkedIn **/in/carlos-arreola-trujillo** • Emai
 
 ---
 
-> Off-hours: grilling/BBQ, baking, and building next-gen PCs 🖥️🔥
-
 #### Certifications:
 - Data Science Professional Certificate (IBM)
 - Machine Learning with Python (IBM)
